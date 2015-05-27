@@ -1,0 +1,153 @@
+
+body{
+	background: #000;
+	padding: 0;
+}
+
+img{
+	border-radius: 3px;
+}
+
+.img1{
+	display: none;
+}
+
+.navbar{
+	background: #9EA9A2;
+	border: none;
+}
+
+
+.navbar-brand{
+	color: #fff !important;
+	text-shadow: none !important;
+}
+
+/*#lista{
+	overflow: scroll;
+	height: 30rem;
+}*/ 
+
+.list{
+	border: 2px solid #FBEFCD;
+	color: #C59424;
+	height: 110px;
+	margin: 1rem 2rem;
+	border-radius: 3px;
+	width: 450px;
+}
+
+.list:hover{
+	color: #F9F8EE;
+	border: 2px solid #F9F8EE;
+}
+
+
+#muestra img{
+	height: 300px;
+	width: 700px;
+	display: table;
+}
+
+.list span{
+	position: absolute;
+	font-size: 1.7rem;
+
+}
+
+.nombre{
+	margin-top: 2.7rem;
+}
+
+.precio{
+	margin-top: 4.7rem;
+
+}
+
+.list span:nth-child(4){
+	margin-top: 4.5rem;
+	font-size: 1.6rem;
+}
+
+.jumbotron{
+	padding: 0;
+	margin-bottom: 0;
+	color: #C59424;
+	background-color: #3A1907;
+}
+
+
+.btn-mod{
+
+}
+
+.btn-mod a{
+	width: 10rem;
+	height: 4rem;
+	font-size: 1.5rem;
+	background: #C59424;
+	border: none;
+	border-radius: 3px;
+}
+
+#margen{
+	margin: 1rem auto 0px;
+	width: 77%;
+
+}
+
+#margen .row:first-child{
+	width: 100%;
+}
+
+.left-info{
+	position: fixed;
+	left: 900px;
+}
+
+#muestra div .row{
+	width: 142%;
+}
+
+.izq p, #type, .right, h3{
+	color: #C59424;
+	font-size: 1.7rem;
+}
+
+h2{
+	font-size: 2.3rem;
+	color: #C59424;
+}
+
+h1{
+	font-size: 4rem !important;
+
+}
+
+li{
+	display: inline-block;
+	list-style: none;
+}
+
+footer h3{
+	font-size: 1.4rem;
+}
+
+.img2{ 
+right: 29rem;
+width: 179px !important;
+height: 106px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

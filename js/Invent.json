@@ -1,0 +1,127 @@
+{
+	"armaduras" : [
+		{
+			"ID" : "Mu",
+			"nombre" : "Aries",
+			"descripcion" : "Ram",
+			"precio" : "Rain of stars",
+			"codigo" : "First holy house",
+			"imagen" : "Aries",
+			"imagenCaballero" : "Caballero de Aries"
+
+		},
+
+		{
+			"ID" : "Aldebaran",
+			"nombre" : "Taurus",
+			"descripcion" : "Bull",
+			"precio" : "Titans nova",
+			"codigo" : "Second holy house",
+			"imagen" : "Tauro",
+			"imagenCaballero" : "Caballero de Tauro"
+		},
+
+		{
+			"ID" : "Canon",
+			"nombre" : "Gemini",
+			"descripcion" : "Two faces",
+			"precio" : "Explosion of galaxies",
+			"codigo" : "Third holy house",
+			"imagen" : "Geminis",
+			"imagenCaballero" : "Caballero de Geminis"
+		},
+
+		{
+			"ID" : "Mortal mask",
+			"nombre" : "Cancer",
+			"descripcion" : "Crab",
+			"precio" : "Separation of souls",
+			"codigo" : "Fourth holy house",
+			"imagen" : "Cancer",
+			"imagenCaballero" : "Caballero de Cancer"
+		},
+
+		{
+			"ID" : "Aioria",
+			"nombre" : "Leo",
+			"descripcion" : "Lion",
+			"precio" : "Explosion of light",
+			"codigo" : "Fifth holy house",
+			"imagen" : "Leo",
+			"imagenCaballero" : "Caballero de Leo"
+		},
+
+		{
+			"ID" : "Shaka",
+			"nombre" : "Virgo",
+			"descripcion" : "Deity",
+			"precio" : "Treasury Sky",
+			"codigo" : "Sixth holy house",
+			"imagen" : "Virgo",
+			"imagenCaballero" : "Caballero de Virgo"
+		},
+
+		{
+			"ID" : "Doko",
+			"nombre" : "Libra",
+			"descripcion" : "Pound",
+			"precio" : "Thousand Dragons",
+			"codigo" : "Seventh holy house",
+			"imagen" : "Libra",
+			"imagenCaballero" : "Caballero de Libra"
+		},
+
+		{
+			"ID" : "Milo",
+			"nombre" : "Scorpio",
+			"descripcion" : "Arachnid",
+			"precio" : "Scarlet Needle",
+			"codigo" : "Eigth holy house",
+			"imagen" : "Escorpion",
+			"imagenCaballero" : "Caballero de Escorpion"
+		},
+
+		{
+			"ID" : "Aiolos",
+			"nombre" : "Sagittarius",
+			"descripcion" : "Centaur Archer",
+			"precio" : "Golden Arrow",
+			"codigo" : "Ningth holy house",
+			"imagen" : "Sagitario",
+			"imagenCaballero" : "Caballero de Sagitario"
+		},
+
+		{
+			"ID" : "Shura",
+			"nombre" : "Capricorn",
+			"descripcion" : "Goat",
+			"precio" : "Excalibur",
+			"codigo" : "Tength holy house",
+			"imagen" : "Capricornio",
+			"imagenCaballero" : "Caballero de Capricornio"
+		},
+
+		{
+			"ID" : "Camus",
+			"nombre" : "Aquarius",
+			"descripcion" : "Jar",
+			"precio" : "Execution of Aurora",
+			"codigo" : "Elevength holy house",
+			"imagen" : "Acuario",
+			"imagenCaballero" : "Caballero de  Acuario"
+		},
+
+		{
+			"ID" : "Afrodita",
+			"nombre" : "Pisces",
+			"descripcion" : "fish",
+			"precio" : "Bloody Rose",
+			"codigo" : "Twelfth holy house",
+			"imagen" : "Piscis",
+			"imagenCaballero" : "Caballero de Piscis "
+		}
+
+
+
+	]
+}

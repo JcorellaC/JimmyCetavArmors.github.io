@@ -1,0 +1,48 @@
+/*},
+
+		{
+			"ID" : "PN003",
+			"nombre" : "Atún Calvo",
+			"descripcion" : "Producto en lata",
+			"precio" : 600,
+			"codigo" : 189809
+		},
+
+		{
+			"ID" : "PN004",
+			"nombre" : "Leche Dos Pinos",
+			"descripcion" : "Producto Tetra Pack",
+			"precio" : 950,
+			"codigo" : 177709
+		},
+
+		{
+			"ID" : "PN005",
+			"nombre" : "Masa Maseca",
+			"descripcion" : "Producto en Bolsa",
+			"precio" : 750,
+			"codigo" : 1677809
+		},
+
+		{
+			"ID" : "PN006",
+			"nombre" : "Pan cuadrado Bimbo",
+			"descripcion" : "Producto derivado",
+			"precio" : 350,
+			"codigo" : 9978654
+		},
+
+		{
+			"ID" : "PN007",
+			"nombre" : "Cerveza Imperial",
+			"descripcion" : "Bebida alcohólica",
+			"precio" : 800,
+			"codigo" : 2223321
+		},
+
+		{
+			"ID" : "PN008",
+			"nombre" : "Chocolate Hershey",
+			"descripcion" : "Cacao Puro",
+			"precio" : 650,
+			"codigo" : 4556*/
